@@ -1,3 +1,5 @@
+Watch how it's made on YouTube: [![](https://img.shields.io/youtube/views/xkHNbrpi3ZQ?style=social)](https://www.youtube.com/watch?v=xkHNbrpi3ZQ&list=PLfbOp004UaYWu-meDkRN6_Y1verl96npI)
+
 1. Create custom launch screen in Xcode (File > New > File and choose Launch Screen), see [here](https://github.com/jfversluis/MauiStoryboardSample/blob/main/MauiStoryboardSample/Resources/LaunchScreen.storyboard).
 2. Add it to .NET MAUI project Resources folder, see [here](https://github.com/jfversluis/MauiStoryboardSample/blob/main/MauiStoryboardSample/Resources).
 3. Make sure that it has the build action `InterfaceDefinition`, see [here](https://github.com/jfversluis/MauiStoryboardSample/blob/main/MauiStoryboardSample/MauiStoryboardSample.csproj#L58).
